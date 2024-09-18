@@ -1,12 +1,24 @@
-## Hi there 👋
+# Budgeting Website
+A budgeting website that is currently in development.
 
-<!--
+Its relevant repositories are here:
+- [Backend](https://github.com/BudgetingWebsite/Backend)
+- [Frontend](https://github.com/BudgetingWebsite/Frontend)
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Technology
+### Backend
+- Java 17
+- Gradle
+- Dropwizard
+- Jooq
+- Bouncycastle
+- JUnit
+- SQL
+- Jackson
+- Mybatis
+### Frontend
+- JavaScript
+- HTML
+- CSS
+- React
+- MUI
